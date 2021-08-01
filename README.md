@@ -1,1 +1,3 @@
-# Sneake_Game
+# Sneake_Game 
+
+Snake game with c language.
